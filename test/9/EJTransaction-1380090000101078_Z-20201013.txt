@@ -1,0 +1,106 @@
+             Puregold Price Club, INC.           
+      ROYAL FAMILY MALL PASO DE BLAS COR. EAST   
+      SERVICE ROAD NORTH E MALINTA NCR, THIRD    
+            DISTRICT CITY OF VALENZUELA          
+            VAT REG TIN: 201-277-095-054         
+      MIN: 18082311211393282    S/N: 41-BEVLV    
+                                                 
+          Trans. Date: 10/13/2020 20:23:49       
+                  TERMINAL Z-REPORT
+                     Reset Count: 0
+                         EOD: 2
+                    Terminal #: 009
+
+   Opened By                               011517
+   Opened Date                2020-10-13 20:23:40
+
+                    CURRENT SALES
+   SI sequence Start          No transactions yet
+   SI sequence End            No transactions yet
+
+                   PREVIOUS SALES
+   SI sequence Start          No transactions yet
+   SI sequence End            No transactions yet
+
+                    Grand Totals
+   Current Positive GT             128,360,215.19
+   Current Negative GT                128,481.43-
+   Previous Positive GT            128,360,215.19
+   Previous Negative GT               128,481.43-
+
+   Positive Delta GT                         0.00
+   Negative Delta GT                        0.00-
+
+              SALES TOTALS MERCHANDISE
+   0.00  Positive Items                      0.00
+   0.00  Negative Items                     0.00-
+   0.00  Corrections                         0.00
+   Merchandise Subtotal                      0.00
+
+                 DISCOUNT/SURCHARGE
+   Senior Discount                           0.00
+   PWD Discount                              0.00
+   Promotion/Discount                        0.00
+   Line/Total Discount                       0.00
+   Price Adjustment                          0.00
+   Case Price                                0.00
+   Discount/Surcharge Subtotal               0.00
+
+   SALES ACCOUNTABILITY                      0.00
+
+             MEDIA TOTALS / MEDIA TENDER
+   Media Tender Subtotal                     0.00
+
+   0  Store Coupon                              0
+
+   MEDIA ACCOUNTABILITY                      0.00
+
+                    OTHER TOTALS
+VAT TAX
+   0.00  Zero-Rated                          0.00
+   0.00  VAT Exempt                          0.00
+   0.00  12% VAT                             0.00
+   0  Returns                               0.00-
+   0  Refunds                               0.00-
+   0  Sale Cancellations                    0.00-
+   0  Post Void                             0.00-
+   0  Suspend                                0.00
+   0  Recall                                 0.00
+   Positive Markdowns                        0.00
+   No. of Discount Lines                    0.00-
+   Item Voided                              0.00-
+
+   0  Entries Keyed                         0.00%
+   0  Entries Scanned                       0.00%
+
+   Scale Entries                                0
+   LBS Scaled                                   0
+
+   Positive Trans.                              0
+   Negative Trans.                              0
+   Zero Total Trans.                            0
+   No Sale Trans.                               0
+   # of Customers                               0
+
+   Cashier Active Time                   00:00:00
+   Temp. Off Time                        00:00:00
+   Entering Items Time                      00:00
+   Tendering Time                           00:00
+   Drawer Open Time                         00:00
+
+            Cashier: 13 / Grace Adrales          
+
+    Exist Software Labs Inc., U502 Orient Square 
+         Bldg F Ortigas Jr Pasig City 1605       
+           VAT REG TIN: 213-272-991-0000         
+       Accreditation: 43A2132729912016080541     
+         ISSUED 08/04/2016 UNTIL 08/04/2021      
+           PTU FP082018-116-0180584-00054        
+      THIS INVOICE/RECEIPT SHALL BE VALID FOR    
+                      FIVE(5)                    
+      YEARS FROM THE DATE OF THE PERMIT TO USE   
+
+         Store #: 138    | Terminal #: 009       
+           Transaction #: 1380090000101078
+            Printed: 2020-10-13 20:23:49         
+

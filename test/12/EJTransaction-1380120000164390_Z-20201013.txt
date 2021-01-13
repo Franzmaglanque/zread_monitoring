@@ -1,0 +1,56 @@
+             Puregold Price Club, INC.           
+      ROYAL FAMILY MALL PASO DE BLAS COR. EAST   
+      SERVICE ROAD NORTH E MALINTA NCR, THIRD    
+            DISTRICT CITY OF VALENZUELA          
+            VAT REG TIN: 201-277-095-054         
+      MIN: 18082311211393292    S/N: 41-BEVKW    
+                                                 
+                AR TERMINAL Z-REPORT
+
+   Reset Count                                  0
+   EOD                                          1
+
+                    CURRENT SALES
+   AR sequence Start          AR-138-012-00000423
+   AR sequence End            AR-138-012-00000425
+
+                   PREVIOUS SALES
+   AR sequence Start          AR-138-012-00000419
+   AR sequence End            AR-138-012-00000422
+
+                    GRAND TOTALS
+   Current Positive GT               1,042,977.25
+   Previous Positive GT              1,035,977.25
+   Positive Delta GT                     7,000.00
+
+                    MEDIA TENDER
+   Cash Sales                            7,000.00
+   Total Media Tender                    7,000.00
+
+
+                      AR AMOUNT
+BILLSPAY
+   Total Transaction                            0
+   Total Bills                               0.00
+
+BILLSPAY VOID
+   Total Transaction                            0
+   Total Bills                               0.00
+
+CASH IN
+   Total Transaction                            3
+   Total Cash In                         7,000.00
+
+CASH IN VOID
+   Total Transaction                            0
+   Total Cash In                             0.00
+
+NET AR
+   Total Transaction                            3
+   Total Amount Paid                     7,000.00
+
+            Cashier: 120 / Merona Eulin          
+         Store #: 138    | Terminal #: 012       
+           Transaction #: 1380120000164390
+            Printed: 2020-10-13 20:17:47         
+

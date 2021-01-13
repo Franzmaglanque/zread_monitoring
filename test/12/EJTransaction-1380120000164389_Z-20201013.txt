@@ -1,0 +1,116 @@
+             Puregold Price Club, INC.           
+      ROYAL FAMILY MALL PASO DE BLAS COR. EAST   
+      SERVICE ROAD NORTH E MALINTA NCR, THIRD    
+            DISTRICT CITY OF VALENZUELA          
+            VAT REG TIN: 201-277-095-054         
+      MIN: 18082311211393292    S/N: 41-BEVKW    
+                                                 
+          Trans. Date: 10/13/2020 20:17:12       
+                  TERMINAL Z-REPORT
+                     Reset Count: 0
+                         EOD: 1
+                    Terminal #: 012
+
+   Opened By                               112585
+   Opened Date                2020-10-13 08:37:17
+
+                    CURRENT SALES
+   SI sequence Start             138-012-00159612
+   SI sequence End               138-012-00159812
+
+                   PREVIOUS SALES
+   SI sequence Start             138-012-00159393
+   SI sequence End               138-012-00159611
+
+                    Grand Totals
+   Current Positive GT             133,262,263.56
+   Current Negative GT                148,005.61-
+   Previous Positive GT            133,041,743.51
+   Previous Negative GT               148,005.61-
+
+   Positive Delta GT                   220,520.05
+   Negative Delta GT                        0.00-
+
+              SALES TOTALS MERCHANDISE
+   9838.67  Positive Items             221,361.30
+   0.00  Negative Items                     0.00-
+   -17.00  Corrections                     689.75
+   Merchandise Subtotal                220,671.55
+
+                 DISCOUNT/SURCHARGE
+   Senior Discount                         -75.45
+   PWD Discount                            -17.31
+   Promotion/Discount                      -58.75
+   Line/Total Discount                       0.00
+   Price Adjustment                          0.00
+   Case Price                                0.00
+   Discount/Surcharge Subtotal            -151.51
+
+   SALES ACCOUNTABILITY                220,520.04
+
+             MEDIA TOTALS / MEDIA TENDER
+
+   189 CASH                            197,085.11
+   0 Pickup                                  0.00
+   Start FL                                  0.00
+
+   8 BDO CREDIT                         16,080.91
+
+   5 BDO DEBIT                           4,266.38
+
+   3 BARCODE PAYMENT                     3,087.65
+   Media Tender Subtotal               220,520.05
+
+   6  Store Coupon                             11
+
+   MEDIA ACCOUNTABILITY                220,520.05
+
+                    OTHER TOTALS
+VAT TAX
+   0.00  Zero-Rated                          0.00
+   9,135.12  VAT Exempt                      0.00
+   188,736.63  12% VAT                  22,648.29
+   0  Returns                               0.00-
+   0  Refunds                               0.00-
+   0  Sale Cancellations                    0.00-
+   0  Post Void                             0.00-
+   0  Suspend                                0.00
+   0  Recall                                 0.00
+   Positive Markdowns                        0.00
+   No. of Discount Lines                  151.51-
+   Item Voided                            689.75-
+
+   78  Entries Keyed                        1.85%
+   4134  Entries Scanned                   98.15%
+
+   Scale Entries                                0
+   LBS Scaled                                   0
+
+   Positive Trans.                            201
+   Negative Trans.                              0
+   Zero Total Trans.                            0
+   No Sale Trans.                               0
+   # of Customers                              78
+
+   Cashier Active Time                   00:00:00
+   Temp. Off Time                        00:00:00
+   Entering Items Time                      00:00
+   Tendering Time                           00:00
+   Drawer Open Time                         00:00
+
+            Cashier: 120 / Merona Eulin          
+
+    Exist Software Labs Inc., U502 Orient Square 
+         Bldg F Ortigas Jr Pasig City 1605       
+           VAT REG TIN: 213-272-991-0000         
+       Accreditation: 43A2132729912016080541     
+         ISSUED 08/04/2016 UNTIL 08/04/2021      
+           PTU FP082018-116-0180594-00054        
+      THIS INVOICE/RECEIPT SHALL BE VALID FOR    
+                      FIVE(5)                    
+      YEARS FROM THE DATE OF THE PERMIT TO USE   
+
+         Store #: 138    | Terminal #: 012       
+           Transaction #: 1380120000164389
+            Printed: 2020-10-13 20:17:12         
+
